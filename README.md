@@ -12,6 +12,12 @@ The objective is to identify missing values, apply and compare different imputat
 
 ---
 
+## Project Explanation Video
+
+[Watch Project Explanation Video](https://drive.google.com/file/d/1qvt_h2MLoV6wj-7r3Y9KpB8wJEj_F1l9/view?usp=drive_link)
+
+---
+
 ## 🎯 Objectives
 
 - Identify missing values and calculate missing percentages.
@@ -376,8 +382,6 @@ Patient-Health-Records-Data-Cleanser/
 ├── Data Cleanser.ipynb
 ├── patient_health_records_50000.csv
 ├── patient_health_records_clean.csv
-├── Theory_Explanation.pdf
-├── Project_Explanation_Video.mp4
 └── README.md
 ```
 
